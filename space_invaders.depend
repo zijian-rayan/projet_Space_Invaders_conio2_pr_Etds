@@ -1,0 +1,479 @@
+# depslib dependency file v1.0
+1517050073 source:i:\important_copie_dd_120go\programmation_c_cpp\projets_code_block\boulder_dash\boulder_dash_conio2\boulder_dash\src\game.cpp
+	"Game.h"
+	<iostream>
+	<keyboard.h>
+	<conio2.h>
+	<Position.h>
+
+1517049722 i:\important_copie_dd_120go\programmation_c_cpp\projets_code_block\boulder_dash\boulder_dash_conio2\boulder_dash\include\game.h
+	<Sprite.h>
+
+1517050226 i:\important_copie_dd_120go\programmation_c_cpp\projets_code_block\boulder_dash\boulder_dash_conio2\boulder_dash\include\sprite.h
+	<Position.h>
+	<Speed.h>
+
+1517050741 i:\important_copie_dd_120go\programmation_c_cpp\projets_code_block\boulder_dash\boulder_dash_conio2\boulder_dash\include\position.h
+
+1364646841 i:\important_copie_dd_120go\programmation_c_cpp\projets_code_block\boulder_dash\boulder_dash_conio2\boulder_dash\include\speed.h
+
+1363420283 i:\important_copie_dd_120go\programmation_c_cpp\projets_code_block\boulder_dash\boulder_dash_conio2\boulder_dash\include\keyboard.h
+
+1091484168 i:\important_copie_dd_120go\programmation_c_cpp\projets_code_block\boulder_dash\boulder_dash_conio2\boulder_dash\include\conio2.h
+	<conio.h>
+	<windows.h>
+
+1363420768 source:i:\important_copie_dd_120go\programmation_c_cpp\projets_code_block\boulder_dash\boulder_dash_conio2\boulder_dash\src\keyboard.cpp
+	<keyboard.h>
+	<conio2.h>
+
+1517050083 source:i:\important_copie_dd_120go\programmation_c_cpp\projets_code_block\boulder_dash\boulder_dash_conio2\boulder_dash\src\main.cpp
+	<iostream>
+	<Game.h>
+
+1517214477 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_cpp_idee_boulderdash_ne_pas_donner_nom\boulder_dash\boulder_dash_conio2\src\coordinates_2d.cpp
+	<Coordinates_2D.h>
+
+1517214462 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_cpp_idee_boulderdash_ne_pas_donner_nom\boulder_dash\boulder_dash_conio2\include\coordinates_2d.h
+
+1517218517 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_cpp_idee_boulderdash_ne_pas_donner_nom\boulder_dash\boulder_dash_conio2\src\game.cpp
+	"Game.h"
+	<iostream>
+	<conio2.h>
+	"keyboard.h"
+	"Coordinates_2D.h"
+	"Level.h"
+
+1517215480 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_cpp_idee_boulderdash_ne_pas_donner_nom\boulder_dash\boulder_dash_conio2\include\game.h
+	"Sprite.h"
+
+1517160605 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_cpp_idee_boulderdash_ne_pas_donner_nom\boulder_dash\boulder_dash_conio2\include\sprite.h
+	"Coordinates_2D.h"
+
+1091484168 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_cpp_idee_boulderdash_ne_pas_donner_nom\boulder_dash\boulder_dash_conio2\include\conio2.h
+	<conio.h>
+	<windows.h>
+
+1363420283 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_cpp_idee_boulderdash_ne_pas_donner_nom\boulder_dash\boulder_dash_conio2\include\keyboard.h
+
+1363420768 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_cpp_idee_boulderdash_ne_pas_donner_nom\boulder_dash\boulder_dash_conio2\src\keyboard.cpp
+	<keyboard.h>
+	<conio2.h>
+
+1517050083 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_cpp_idee_boulderdash_ne_pas_donner_nom\boulder_dash\boulder_dash_conio2\src\main.cpp
+	<iostream>
+	<Game.h>
+
+1517214840 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_cpp_idee_boulderdash_ne_pas_donner_nom\boulder_dash\boulder_dash_conio2\src\sprite.cpp
+	"Sprite.h"
+	<cstdlib>
+	<iostream>
+	<conio2.h>
+
+1517218530 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_cpp_idee_boulderdash_ne_pas_donner_nom\boulder_dash\boulder_dash_conio2\include\level.h
+
+1517218664 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_cpp_idee_boulderdash_ne_pas_donner_nom\boulder_dash\boulder_dash_conio2\src\level.cpp
+	"Level.h"
+	<iostream>
+	<conio2.h>
+
+1517214477 source:c:\users\cccccc\desktop\boulder_dash_conio2\src\coordinates_2d.cpp
+	<Coordinates_2D.h>
+
+1517214462 c:\users\cccccc\desktop\boulder_dash_conio2\include\coordinates_2d.h
+
+1517504947 source:c:\users\cccccc\desktop\boulder_dash_conio2\src\game.cpp
+	"Game.h"
+	<iostream>
+	<conio2.h>
+	"keyboard.h"
+	"Coordinates_2D.h"
+	"Level.h"
+
+1517215480 c:\users\cccccc\desktop\boulder_dash_conio2\include\game.h
+	"Sprite.h"
+
+1517160605 c:\users\cccccc\desktop\boulder_dash_conio2\include\sprite.h
+	"Coordinates_2D.h"
+
+1091484168 c:\users\cccccc\desktop\boulder_dash_conio2\include\conio2.h
+	<conio.h>
+	<windows.h>
+
+1517501831 c:\users\cccccc\desktop\boulder_dash_conio2\include\keyboard.h
+
+1517503185 c:\users\cccccc\desktop\boulder_dash_conio2\include\level.h
+	"Sprite.h"
+
+1363420768 source:c:\users\cccccc\desktop\boulder_dash_conio2\src\keyboard.cpp
+	<keyboard.h>
+	<conio2.h>
+
+1517507218 source:c:\users\cccccc\desktop\boulder_dash_conio2\src\level.cpp
+	"Level.h"
+	<iostream>
+	<conio2.h>
+
+1517483158 source:c:\users\cccccc\desktop\boulder_dash_conio2\src\main.cpp
+	<iostream>
+	<Game.h>
+	<conio2.h>
+
+1517482494 source:c:\users\cccccc\desktop\boulder_dash_conio2\src\sprite.cpp
+	"Sprite.h"
+	<cstdlib>
+	<iostream>
+	<conio2.h>
+
+1521569016 source:c:\users\cccccc\desktop\projet_mineur_conio2_pr_etds\src\coordinates_2d.cpp
+	<Coordinates_2D.h>
+
+1521564565 c:\users\cccccc\desktop\projet_mineur_conio2_pr_etds\include\coordinates_2d.h
+
+1521569552 source:c:\users\cccccc\desktop\projet_mineur_conio2_pr_etds\src\game.cpp
+	"Game.h"
+	<iostream>
+	<conio2.h>
+	"keyboard.h"
+	"Coordinates_2D.h"
+	"Level.h"
+
+1521566160 c:\users\cccccc\desktop\projet_mineur_conio2_pr_etds\include\game.h
+	"Sprite.h"
+
+1521566425 c:\users\cccccc\desktop\projet_mineur_conio2_pr_etds\include\sprite.h
+	"Coordinates_2D.h"
+
+1091484168 c:\users\cccccc\desktop\projet_mineur_conio2_pr_etds\include\conio2.h
+	<conio.h>
+	<windows.h>
+
+1521566894 c:\users\cccccc\desktop\projet_mineur_conio2_pr_etds\include\keyboard.h
+
+1521568687 c:\users\cccccc\desktop\projet_mineur_conio2_pr_etds\include\level.h
+	"Sprite.h"
+
+1521569016 source:c:\users\cccccc\desktop\projet_mineur_conio2_pr_etds\src\keyboard.cpp
+	<keyboard.h>
+	<conio2.h>
+
+1521569615 source:c:\users\cccccc\desktop\projet_mineur_conio2_pr_etds\src\level.cpp
+	"Level.h"
+	<iostream>
+	<conio2.h>
+
+1521568814 source:c:\users\cccccc\desktop\projet_mineur_conio2_pr_etds\src\main.cpp
+	<iostream>
+	<Game.h>
+	<conio2.h>
+
+1521569616 source:c:\users\cccccc\desktop\projet_mineur_conio2_pr_etds\src\sprite.cpp
+	"Sprite.h"
+	<cstdlib>
+	<iostream>
+	<conio2.h>
+
+1521569016 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2\src\coordinates_2d.cpp
+	<Coordinates_2D.h>
+
+1551470439 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2\include\coordinates_2d.h
+
+1551463605 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2\src\game.cpp
+	"Game.h"
+	<iostream>
+	<conio2.h>
+	"keyboard.h"
+	"Coordinates_2D.h"
+	"Level.h"
+
+1551469652 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2\include\game.h
+	"Sprite.h"
+
+1551470705 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2\include\sprite.h
+	<vector>
+	"Coordinates_2D.h"
+
+1091484168 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2\include\conio2.h
+	<conio.h>
+	<windows.h>
+
+1551469729 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2\include\keyboard.h
+
+1551516744 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2\include\level.h
+	"Sprite.h"
+	<vector>
+
+1551458408 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2\src\keyboard.cpp
+	<keyboard.h>
+	<conio2.h>
+
+1551472387 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2\src\level.cpp
+	"Level.h"
+	<iostream>
+	<conio2.h>
+
+1551448894 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2\src\main.cpp
+	<iostream>
+	<Game.h>
+	<conio2.h>
+
+1551470683 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2\src\sprite.cpp
+	"Sprite.h"
+	<cstdlib>
+	<iostream>
+	<conio2.h>
+
+1521569016 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2_pr_etds\src\coordinates_2d.cpp
+	<Coordinates_2D.h>
+
+1551470439 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2_pr_etds\include\coordinates_2d.h
+
+1551538282 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2_pr_etds\src\game.cpp
+	"Game.h"
+	<iostream>
+	<conio2.h>
+	"keyboard.h"
+	"Coordinates_2D.h"
+	"Level.h"
+
+1551469652 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2_pr_etds\include\game.h
+	"Sprite.h"
+
+1551537881 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2_pr_etds\include\sprite.h
+	<vector>
+	"Coordinates_2D.h"
+
+1091484168 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2_pr_etds\include\conio2.h
+	<conio.h>
+	<windows.h>
+
+1551469729 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2_pr_etds\include\keyboard.h
+
+1551537698 d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2_pr_etds\include\level.h
+	"Sprite.h"
+	<vector>
+
+1551538290 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2_pr_etds\src\keyboard.cpp
+	<keyboard.h>
+	<conio2.h>
+
+1551537754 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2_pr_etds\src\level.cpp
+	"Level.h"
+	<iostream>
+	<conio2.h>
+
+1551448894 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2_pr_etds\src\main.cpp
+	<iostream>
+	<Game.h>
+	<conio2.h>
+
+1551538619 source:d:\travail\ifips_optronique\ci2a\complement_langage_c\tp\mini-projet_space_invaders\projets_codeblocks\projet_space_invaders_conio2_pr_etds\src\sprite.cpp
+	"Sprite.h"
+	<cstdlib>
+	<iostream>
+	<conio2.h>
+
+1554082517 source:c:\users\25836\documents\好好学习c++\mini projet\projet_space_invaders_conio2_pr_etds\src\coordinates_2d.cpp
+	<Coordinates_2D.h>
+
+1551474039 c:\users\25836\documents\好好学习c++\mini projet\projet_space_invaders_conio2_pr_etds\include\coordinates_2d.h
+
+1554156168 source:c:\users\25836\documents\好好学习c++\mini projet\projet_space_invaders_conio2_pr_etds\src\game.cpp
+	"Game.h"
+	<iostream>
+	<conio2.h>
+	"keyboard.h"
+	"Coordinates_2D.h"
+	"Level.h"
+
+1551473252 c:\users\25836\documents\好好学习c++\mini projet\projet_space_invaders_conio2_pr_etds\include\game.h
+	"Sprite.h"
+
+1551541481 c:\users\25836\documents\好好学习c++\mini projet\projet_space_invaders_conio2_pr_etds\include\sprite.h
+	<vector>
+	"Coordinates_2D.h"
+
+1091491368 c:\users\25836\documents\好好学习c++\mini projet\projet_space_invaders_conio2_pr_etds\include\conio2.h
+	<conio.h>
+	<windows.h>
+
+1551473329 c:\users\25836\documents\好好学习c++\mini projet\projet_space_invaders_conio2_pr_etds\include\keyboard.h
+
+1551541298 c:\users\25836\documents\好好学习c++\mini projet\projet_space_invaders_conio2_pr_etds\include\level.h
+	"Sprite.h"
+	<vector>
+
+1551541890 source:c:\users\25836\documents\好好学习c++\mini projet\projet_space_invaders_conio2_pr_etds\src\keyboard.cpp
+	<keyboard.h>
+	<conio2.h>
+
+1554156583 source:c:\users\25836\documents\好好学习c++\mini projet\projet_space_invaders_conio2_pr_etds\src\level.cpp
+	"Level.h"
+	<iostream>
+	<conio2.h>
+
+1554156182 source:c:\users\25836\documents\好好学习c++\mini projet\projet_space_invaders_conio2_pr_etds\src\main.cpp
+	<iostream>
+	<Game.h>
+	<windows.h>
+	<conio2.h>
+
+1554155304 source:c:\users\25836\documents\好好学习c++\mini projet\projet_space_invaders_conio2_pr_etds\src\sprite.cpp
+	"Sprite.h"
+	<cstdlib>
+	<iostream>
+	<conio2.h>
+
+1554082517 source:c:\users\zijia\desktop\mini projet\projet_space_invaders_conio2_pr_etds\src\coordinates_2d.cpp
+	<Coordinates_2D.h>
+
+1551474039 c:\users\zijia\desktop\mini projet\projet_space_invaders_conio2_pr_etds\include\coordinates_2d.h
+
+1554216039 source:c:\users\zijia\desktop\mini projet\projet_space_invaders_conio2_pr_etds\src\game.cpp
+	"Game.h"
+	<iostream>
+	<conio2.h>
+	"keyboard.h"
+	"Coordinates_2D.h"
+	"Level.h"
+
+1551473252 c:\users\zijia\desktop\mini projet\projet_space_invaders_conio2_pr_etds\include\game.h
+	"Sprite.h"
+
+1551541481 c:\users\zijia\desktop\mini projet\projet_space_invaders_conio2_pr_etds\include\sprite.h
+	<vector>
+	"Coordinates_2D.h"
+
+1091491368 c:\users\zijia\desktop\mini projet\projet_space_invaders_conio2_pr_etds\include\conio2.h
+	<conio.h>
+	<windows.h>
+
+1551473329 c:\users\zijia\desktop\mini projet\projet_space_invaders_conio2_pr_etds\include\keyboard.h
+
+1554210497 c:\users\zijia\desktop\mini projet\projet_space_invaders_conio2_pr_etds\include\level.h
+	"Sprite.h"
+	<vector>
+
+1551541890 source:c:\users\zijia\desktop\mini projet\projet_space_invaders_conio2_pr_etds\src\keyboard.cpp
+	<keyboard.h>
+	<conio2.h>
+
+1554216399 source:c:\users\zijia\desktop\mini projet\projet_space_invaders_conio2_pr_etds\src\level.cpp
+	"Level.h"
+	<iostream>
+	<conio2.h>
+
+1554214315 source:c:\users\zijia\desktop\mini projet\projet_space_invaders_conio2_pr_etds\src\main.cpp
+	<iostream>
+	<Game.h>
+	<windows.h>
+	<conio2.h>
+
+1554213009 source:c:\users\zijia\desktop\mini projet\projet_space_invaders_conio2_pr_etds\src\sprite.cpp
+	"Sprite.h"
+	<cstdlib>
+	<iostream>
+	<conio2.h>
+
+1554082517 source:d:\mini projet\projet_space_invaders_conio2_pr_etds\src\coordinates_2d.cpp
+	<Coordinates_2D.h>
+
+1551474039 d:\mini projet\projet_space_invaders_conio2_pr_etds\include\coordinates_2d.h
+
+1554578727 source:d:\mini projet\projet_space_invaders_conio2_pr_etds\src\game.cpp
+	"Game.h"
+	<iostream>
+	<conio2.h>
+	"keyboard.h"
+	"Coordinates_2D.h"
+	"Level.h"
+
+1551473252 d:\mini projet\projet_space_invaders_conio2_pr_etds\include\game.h
+	"Sprite.h"
+
+1551541481 d:\mini projet\projet_space_invaders_conio2_pr_etds\include\sprite.h
+	<vector>
+	"Coordinates_2D.h"
+
+1091491368 d:\mini projet\projet_space_invaders_conio2_pr_etds\include\conio2.h
+	<conio.h>
+	<windows.h>
+
+1551473329 d:\mini projet\projet_space_invaders_conio2_pr_etds\include\keyboard.h
+
+1554210497 d:\mini projet\projet_space_invaders_conio2_pr_etds\include\level.h
+	"Sprite.h"
+	<vector>
+
+1551541890 source:d:\mini projet\projet_space_invaders_conio2_pr_etds\src\keyboard.cpp
+	<keyboard.h>
+	<conio2.h>
+
+1554216399 source:d:\mini projet\projet_space_invaders_conio2_pr_etds\src\level.cpp
+	"Level.h"
+	<iostream>
+	<conio2.h>
+
+1554214315 source:d:\mini projet\projet_space_invaders_conio2_pr_etds\src\main.cpp
+	<iostream>
+	<Game.h>
+	<windows.h>
+	<conio2.h>
+
+1554213009 source:d:\mini projet\projet_space_invaders_conio2_pr_etds\src\sprite.cpp
+	"Sprite.h"
+	<cstdlib>
+	<iostream>
+	<conio2.h>
+
+1554078918 source:d:\冰岛、projet\mini projet\projet_space_invaders_conio2_pr_etds\src\coordinates_2d.cpp
+	<Coordinates_2D.h>
+
+1551470440 d:\冰岛、projet\mini projet\projet_space_invaders_conio2_pr_etds\include\coordinates_2d.h
+
+1551538292 source:d:\冰岛、projet\mini projet\projet_space_invaders_conio2_pr_etds\src\keyboard.cpp
+	<keyboard.h>
+	<conio2.h>
+
+1551469730 d:\冰岛、projet\mini projet\projet_space_invaders_conio2_pr_etds\include\keyboard.h
+
+1091487768 d:\冰岛、projet\mini projet\projet_space_invaders_conio2_pr_etds\include\conio2.h
+	<conio.h>
+	<windows.h>
+
+1557024828 source:d:\冰岛、projet\mini projet\projet_space_invaders_conio2_pr_etds\src\level.cpp
+	"Level.h"
+	<iostream>
+	<conio2.h>
+
+1557021423 d:\冰岛、projet\mini projet\projet_space_invaders_conio2_pr_etds\include\level.h
+	"Sprite.h"
+	<vector>
+
+1557057217 d:\冰岛、projet\mini projet\projet_space_invaders_conio2_pr_etds\include\sprite.h
+	<vector>
+	"Coordinates_2D.h"
+
+1554210716 source:d:\冰岛、projet\mini projet\projet_space_invaders_conio2_pr_etds\src\main.cpp
+	<iostream>
+	<Game.h>
+	<windows.h>
+	<conio2.h>
+
+1556931909 d:\冰岛、projet\mini projet\projet_space_invaders_conio2_pr_etds\include\game.h
+	"Sprite.h"
+
+1557057214 source:d:\冰岛、projet\mini projet\projet_space_invaders_conio2_pr_etds\src\sprite.cpp
+	"Sprite.h"
+	<cstdlib>
+	<iostream>
+	<conio2.h>
+
+1557057213 source:d:\冰岛、projet\mini projet\projet_space_invaders_conio2_pr_etds\src\game.cpp
+	"Game.h"
+	<iostream>
+	<conio2.h>
+	"keyboard.h"
+	"Coordinates_2D.h"
+	"Level.h"
+
